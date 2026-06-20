@@ -17,3 +17,6 @@ Instead of generating a monolithic private key, the cryptographic initialization
 5. **The full private key is never reconstructed or held in memory.**
 
 *(Watch the attached conceptual video for a visual representation of the cryptographic flow!)*
+
+
+https://github.com/user-attachments/assets/31946abe-802a-44c1-9103-8c37a6990ed4
